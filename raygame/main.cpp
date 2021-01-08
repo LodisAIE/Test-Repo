@@ -19,6 +19,8 @@ int main()
 
 	game.run();
 
+	//hi
+
 	Vector2 test;
 	return 0;
 }
