@@ -19,7 +19,7 @@ int main()
 
 	game.run();
 
-	//ok
+	//Nah shun
 
 	Vector2 test;
 	return 0;
