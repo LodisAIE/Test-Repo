@@ -19,7 +19,7 @@ int main()
 
 	game.run();
 
-	//no
+	//ok
 
 	Vector2 test;
 	return 0;
